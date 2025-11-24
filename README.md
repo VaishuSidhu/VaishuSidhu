@@ -69,6 +69,17 @@ My other projects are
 ![](https://github-contributor-stats.vercel.app/api?username=VaishuSidhu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </div>
 
+## 📊 Coding Profiles
+
+<div align="center">
+
+---
+### 🧮 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vaishnavy_04?theme=dark&font=Syne%20Mono&ext=heatmap)](https://leetcode.com/u/Vaishnavy_04/)
+<br>
+</div>
+
+---
 
 ## 👋 Let's Connect
 
