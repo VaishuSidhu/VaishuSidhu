@@ -14,16 +14,16 @@ A passionate Computer Science student from India, focused on building secure, sc
 ## 💫 About Me:
   I’m a **Cybersecurity Enthusiast** and **Backend Developer** who loves solving real-world problems through clean design, secure systems, and functional software. My journey blends **creativity and technical depth** — from **UI/UX** and **full-stack development** to exploring **cybersecurity**, **AI tools**, and **automation**
 
----
 ## ⚡Projects :
-  I'm currently working in a project named **Femmecare - A Female Holistic Apllication**
-  My other projects are 
+I'm currently working in a project named **Femmecare - A Female Holistic Apllication**
+  
+My other projects are 
+
 	- **LifeLink - A digital Blood Donation Application**
   	- **Trustable - A digital Chitfunds Application**
 	- **Scorekeeper API - A Trade Leaderboard API
 	- **Employee Management system - A dashboard for employee management**
 	- **Time2Dose - A Medicine-reminder Application**
----
 
 ## 💼 Work & Internship Experience
 
