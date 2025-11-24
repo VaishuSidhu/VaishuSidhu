@@ -70,13 +70,33 @@ My other projects are
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VaishuSidhu&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaishuSidhu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="200px" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=VaishuSidhu&theme=gruvbox&hide_border=false" height="200px" />
+    </td>
+  </tr>
+</table>
+
 </div>
+
+<!-- Row 2: Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
+
+<br><br> <!-- GAP -->
+
+<!-- Row 3: Top Contributed Repositories -->
+<h3>🔝 Top Contributed Repositories</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=VaishuSidhu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" width="60%" />
+
+</div>
+
+
 
 ## 📊 Coding Profiles
 
