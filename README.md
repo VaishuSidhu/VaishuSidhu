@@ -8,8 +8,8 @@
 <p align="center">
   <img 
     alt="Coding" 
-    height="200" 
-    width="500"  
+    height="350" 
+    width="550"  
     src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
   />
 </p>
