@@ -87,9 +87,6 @@ My other projects are
 
 <!-- Row 2: Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
-
-<br><br> <!-- GAP -->
-
 <!-- Row 3: Top Contributed Repositories -->
 <h3>🔝 Top Contributed Repositories</h3>
 <img src="https://github-contributor-stats.vercel.app/api?username=VaishuSidhu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" width="60%" />
