@@ -3,7 +3,6 @@
 # 👋 Hey there, I'm **Vaishnavy Senthilkumar**
 
 ### 🔐 Cybersecurity Enthusiast | ⚙️ Backend Developer | 🧩 Problem Solver
-<div align ="center">
 	
 <p align="center">
   <img 
