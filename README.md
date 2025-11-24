@@ -68,7 +68,7 @@ My other projects are
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VaishuSidhu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </div>
----
+
 
 ## 👋 Let's Connect
 
@@ -81,11 +81,11 @@ My other projects are
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svvaishnavy@gmail.com)
 
 </div>
----
+
 
 <div align="center">
 
- *“Transforming complexity into clarity through intelligent innovation”*  
+ 🎗️*“Transforming complexity into clarity through intelligent innovation”* 🎗️  
 © 2025 Vaishnavy Senthilkumar
 
 </div>
