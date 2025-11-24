@@ -60,6 +60,7 @@ My other projects are
 
 # 📊 GitHub Stats:
 <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VaishuSidhu&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -75,15 +76,15 @@ My other projects are
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaishuSidhu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavy-s)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaishnavy_04/)
-[![Medium](https://img.shields.io/badge/Medium-0F9D58?style=for-the-badge&logo=medium&logocolour=black)](https://www.geeksforgeeks.org/user/adithyasivttjd/)
+[![Medium](https://img.shields.io/badge/Medium-0F9D58?style=for-the-badge&logo=medium&logocolour=black)](https://medium.com/@svvaishnavy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svvaishnavy@gmail.com)
 
 </div>
 ---
+
+<div align="center">
+
  *“Transforming complexity into clarity through intelligent innovation”*  
 © 2025 Vaishnavy Senthilkumar
 
 </div>
-[![](https://visitcount.itsvg.in/api?id=VaishuSidhu&icon=3&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
