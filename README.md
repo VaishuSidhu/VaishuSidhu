@@ -3,9 +3,17 @@
 # 👋 Hey there, I'm **Vaishnavy Senthilkumar**
 
 ### 🔐 Cybersecurity Enthusiast | ⚙️ Backend Developer | 🧩 Problem Solver
-<div align ="center"
-<img alt="Coding" height ="200" width="500"  src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
-</div>
+<div align ="center">
+	
+<p align="center">
+  <img 
+    alt="Coding" 
+    height="200" 
+    width="500"  
+    src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
+  />
+</p>
+
 <p>
 A passionate Computer Science student from India, focused on building secure, scalable, and user-centric digital experiences.
 </p>
