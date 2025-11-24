@@ -1,118 +1,21 @@
-👋 Hey there, I'm Vaishnavy Senthilkumar
-🔐 Cybersecurity Enthusiast | ⚙️ Backend Developer | 🧩 Problem Solver
-<p> A passionate Computer Science student from India, focused on building secure, scalable, and user-centric digital experiences. </p> </div>
-👩‍💻 About Me
-
-I’m a Cybersecurity Enthusiast and Backend Developer who loves solving real-world problems through clean design, secure systems, and functional software.
-My journey blends creativity and technical depth — from UI/UX and full-stack development to exploring cybersecurity, AI tools, and automation.
-
-🎓 Computer Science Engineering Student
-
-🔐 Passionate about Cybersecurity & Secure Application Design
-
-🎨 UI/UX Enthusiast — love designing intuitive interfaces
-
-🧠 Experienced in Backend Development, Frontend Design & Problem Solving
-
-🚀 Always learning to build tech that is simple, secure, and impactful
-
-🛠️ Skilled in Python, Java, Web Development, DBMS & Software Design Principles
-
-🎯 Areas of Expertise
-
-🔐 Cybersecurity — Secure coding, vulnerability awareness, authentication systems
-
-⚙️ Backend Development — Python, Java, Node.js (basics), APIs
-
-🎨 UI/UX & Frontend — Figma, HTML, CSS, JS
-
-🧮 Problem Solving — DSA, logic building
-
-🗂️ DBMS & SQL — MySQL, PostgreSQL
-
-🧠 AI & Automation (Beginner Level) — Exploratory tools & lightweight ML
-
-🏆 Notable Projects
-1️⃣ CodeGuard AI – Code Vulnerability Scanner
-
-A security-focused tool that analyzes code for vulnerabilities using static analysis and AI-based insights.
-Tech: Python, ML Tools, Secure Coding Modules
-
-2️⃣ FemmeCare – Women’s Holistic Health App
-
-AI-powered app offering period tracking, PCOD/thyroid indicators, pregnancy care & wellness insights.
-Tech: HTML, CSS, JS, Python, Flask (optional backend)
-
-3️⃣ EMS – Employee Management System
-
-A complete employee management solution with CRUD features and clean UI design.
-Tech: HTML, CSS, JS, Java, SQL
-
-4️⃣ MaholeMart – Social E-Commerce Platform
-
-A modern commerce platform integrating social features, user reviews & secure buying experience.
-Tech: HTML, CSS, JS, Java, SQL
-
-5️⃣ Moddify.io – Sentiment-Based Feedback Analyzer
-
-A sentiment analysis application that provides insights based on user feedback and tone.
-Tech: Python, ML Libraries, Streamlit / Web UI
-
-🧰 Tech Stack & Tools
-<div align="center">
-🧩 Programming Languages
-Category	Technologies
-Core	
-
-Web	
-🧱 Frontend Development
-Category	Technologies
-UI Frameworks	
-
-Libraries & Styling	
-⚙️ Backend Development
-Category	Technologies
-Frameworks	
-
-API Development	
-
-Authentication	
-🤖 AI / ML Integration
-Category	Technologies
-AI/ML Tools	
-🗂️ Databases & Cloud
-Category	Technologies
-Databases	
-
-Cloud Tools	
-🧰 Development Environment
-Category	Tools
-Editors & IDEs	
-
-Collaboration Tools	
-</div>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VaishuSidhu&show_icons=true&theme=radical" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishuSidhu&layout=compact&theme=radical" height="180px"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=VaishuSidhu&theme=radical" height="180px"/> </div>
-🤝 Let's Connect
-<div align="center">
+# 💫 About Me:
+👋 Hey there, I'm Vaishnavy Senthilkumar 🔐 Cybersecurity Enthusiast | ⚙️ Backend Developer | 🧩 Problem Solver<br><br>A passionate Computer Science student from India, focused on building secure, scalable, and user-centric digital experiences.<br>I’m a Cybersecurity Enthusiast and Backend Developer who loves solving real-world problems through clean design, secure systems, and functional software. My journey blends creativity and technical depth — from UI/UX and full-stack development to exploring cybersecurity, AI tools, and automation.<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnavy-s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@svvaishnavy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/svvaishnavy/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vaishu_sidhu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svvaishnavy@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=plastic&logo=sketchup&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VaishuSidhu&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishuSidhu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VaishuSidhu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=VaishuSidhu&icon=3&color=9)](https://visitcount.itsvg.in)
 
-
-
-
-
-</div>
-<div align="center">
-
-✨ “Creating secure, simple, and meaningful digital experiences.” ✨
-© 2025 Vaishnavy Senthilkumar
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
